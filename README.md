@@ -1,6 +1,7 @@
 Real-Time Poll Rooms
 
 A full-stack real-time polling application where users can create polls, share a link, vote, and see live results without refreshing the page.
+Note: During testing application the response for any activity will take time as application is deployed on free instance.
 
 Tech Stack
 
